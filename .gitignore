@@ -1,0 +1,9 @@
+.project
+.pydevproject
+var/
+data/
+.DS_Store
+*~
+*.pyc
+*.log
+*.pid
